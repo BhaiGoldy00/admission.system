@@ -1,5 +1,5 @@
 import time
-print("Welcome to Delhi Public School Bulandshahr , PCM Entrance Examination")
+print("Welcome to Demo School , PCM Entrance Examination")
 
 print()
 
@@ -34,7 +34,7 @@ if english > 100 or maths > 100 or science > 100 or english < 0 or maths < 0 or 
     print("Details are wrong , try again !")
 
 elif percentage >= 90 :
-    print("Congratulations" ,name, "your application for admission in DPS for PCM stream has been accepted.")
+    print("Congratulations" ,name, "your application for admission in PCM stream has been accepted.")
     
 else :
     print("With regret, your application for admission has been declined because you did not fulfill the required criteria.")
